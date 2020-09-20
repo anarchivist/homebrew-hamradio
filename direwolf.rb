@@ -2,7 +2,7 @@ class Direwolf < Formula
   desc "Software modem and TNC for AX.25"
   homepage "https://github.com/wb2osz/direwolf"
   # I'm not attempting to build from the 1.5 tarball since the dev branch is
-  # so much smoother
+  # so much smoother on Mac OS. 
   # url "https://github.com/wb2osz/direwolf/archive/1.5.tar.gz"
   # sha256 "2e263ea4fa75c342b620dee048436ac95486ea3f93599ad818e74dfd4aec8b48"
   # version "1.5"
