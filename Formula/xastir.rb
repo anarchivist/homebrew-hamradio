@@ -4,6 +4,7 @@ class Xastir < Formula
   url "https://github.com/Xastir/Xastir/archive/Release-2.1.6.tar.gz"
   sha256 "5a71af2936d4d237c779b1c3a519211f8e3cd03b9873a260c849ddc8950e1a3e"
   head "https://github.com/Xastir/Xastir.git"
+  license "GPL-2.0"
 
   depends_on "proj"
   depends_on "pcre"
